@@ -19,7 +19,7 @@
 | [MPU6050 module](https://kinetronica.com.mx/modulo-acelerometro-y-giroscopio-mpu-6050-gy-521) | allow Starbie to sense itself being moved around: | 1 | $2.97 | $2.97 | [Kinetronica, México](https://kinetronica.com.mx/modulo-acelerometro-y-giroscopio-mpu-6050-gy-521) |
 | [DHT11 humidity and temperature sensor](https://www.geekfactory.mx/producto/dht11-sensor-de-humedad-y-temperatura/) | allow Starbie to sense the temperature and moisture of the environment | 1 | $2.08 | $2.08 | [Geek Factory](https://www.geekfactory.mx/producto/dht11-sensor-de-humedad-y-temperatura/) |
 | **Parts subtotal** | — | — | — | **$17.70** | — |
-| **Tax & shipping** | — | — | — | **$9.32** | — |
-| **Total** | — | — | — | **$27.02** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$27.70** | — |
 
-$2.98 left of the tier's funding.
+$2.30 left of the tier's funding.
