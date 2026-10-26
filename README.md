@@ -1,5 +1,6 @@
 # Starbie
-A tiny motion-controlled digital pet, basically a desktop Tamagotchi. 
+A pet(tamagochi) that's is inspire in the flippers of amazon that uses a screen and sensors to feel its environment
+. 
 Journal entry
 6 hours logged
 October 10:The "The body "is designe I achieve to delimited the edge.cuts in kicad with my own design so its no longer a star it have more the shape of a flipperbesides i need to remake the design three times and the connections in the final design can be improved easily by someone with experience for been my first time using kicad and everything it was not bad at all
