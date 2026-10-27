@@ -1,0 +1,8 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+buttons,2,DigiKey Mexico,$1.75,$3.50,https://www.digikey.com.mx/es/products/detail/cherry-americas-llc/MX2A-E1NW/21738396
+Screen,1,Geek Factory México,$3.80,$3.80,https://www.geekfactory.mx/producto/display-oled-0-96-128x64-ssd1306-i2c/
+microcontroller,1,DigiKey México,$5.25,$5.25,https://www.digikey.com.mx/es/products/detail/seeed-technology-co-ltd/113991054/16652880
+resistor,1,DigiKey México,$0.10,$0.10,https://www.digikey.com.mx/es/products/detail/yageo/CFR-25JB-52-10K/338
+MPU6050 module,1,"Kinetronica, México",$2.97,$2.97,https://kinetronica.com.mx/modulo-acelerometro-y-giroscopio-mpu-6050-gy-521
+DHT11 humidity and temperature sensor,1,Geek Factory,$2.08,$2.08,https://www.geekfactory.mx/producto/dht11-sensor-de-humedad-y-temperatura/
+Estimated total shipping,1,,,$10.00,
