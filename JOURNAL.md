@@ -46,21 +46,21 @@ for the hour 3 well the final of the hour 3 i learn some important shortcuts lik
 
 here finally i can pass to the part of editing the pbc but first i needed to put the footprints and in this part i also needed to "upload" something but when i upload it and i applied the changes i do not notice that i disable the kicad libarie of footprints and something else and the major part of the foot prints and when i noticed this i had to enable the foot prints librari also i did not know that i needed to make double click to gave every symbol its foot print also i was searching in all the options that gave me when i notice that it was a search button and when i finally do this i pass to the obc editor and it gave me the things in a diferrent order so i needed to change the orientation because i does not know it that affected something
 
-Disculpa si la imagen está borrosa; no me di cuenta de ello en el momento de tomarla.
+Sorry if the image is blurry; I didn't notice it when I took it.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mxFUOw3QiSBo3WhVd3ZXxejL58XmFGyx/a4a0f3eb8e752e2a372a5550f9972ddd4861be2ebd8e08d156dd9bc481dee5a6.png)
 
-Al llegar a la quinta hora, vi que era momento de darle forma a la estrella; también noté que no era obligatorio mantener la misma forma u orientación. Fue entonces cuando decidí que mi "Starbie" no tendría forma de estrella —en parte porque me resultaba difícil dibujarla—, sino que opté por la forma de una aleta (como la de Amazon). Comencé a trazar la silueta y ajusté la orientación de todos los símbolos para que encajaran en el diseño; la imagen muestra la forma final, o al menos la que se suponía que debía tener.
+By the fifth hour, I realized it was time to give the star its shape; I also noted that I wasn't strictly required to keep the same form or orientation. That was when I decided my "Starbie" wouldn't be star-shaped—partly because I found it difficult to draw a star—so I opted for the shape of a fin (like the one used by Amazon). I began tracing the outline and adjusted the orientation of all the symbols so they would fit into the design; the image shows the final shape—or, at least, the shape it was intended to have.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mxFUOw3QiSBo3WhVd3ZXxejL58XmFGyx/a9a0ffd50324771aca2a02d1845cba5a841c02d0d20fc1dd3f321ab5133ab5ad.png)
 
 in this hour i finally connect all the things that were missing to connect first i was not knowing why all the time i was appering a red line until i understand that it was the thing that i needed to do but in another place but hen it apper another problem and was that it needed to conect all without touching other lines or going over the symbols so i think that i needed to change the order to conect all but then i discover that making a single click it help me to "attach" it and that help me to made the connections in and easier way but it i still needed to make some changes to make fit all
 
-### 2026-10-11 – Hoy trabajé en los últimos pasos del "starbie" (que no tiene forma de estrella) y me di cuenta de que necesitaba comprar materiales; no lo noté hasta estar a mitad del proceso, pero primero les contar
+### 2026-10-11 – Today I worked on the final steps of the "starbie" (which isn't actually star-shaped), and I realized I needed to buy some materials—I didn't notice this until I was halfway through the process, but first, let me tell you
 
 **4h**
 
-Hoy trabajé en los últimos pasos del "starbie" (que no tiene forma de estrella) y me di cuenta de que necesitaba comprar materiales; no lo noté hasta estar a mitad del proceso, pero primero les contaré cómo han ido mis avances
+Today I worked on the final steps of the "starbie" (which isn't actually star-shaped), and I realized I needed to buy some materials—I didn't notice this until I was halfway through the process—but first, I’ll tell you about the progress I’ve made.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mxFUOw3QiSBo3WhVd3ZXxejL58XmFGyx/1c66af7d605525b09ee66ec5c059d1f046c0bc4d037adc9f2b21020e3d28fb0d.png)
 
@@ -77,6 +77,6 @@ So what i made to continue with the project and achieve the 10 hours was to sear
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mxFUOw3QiSBo3WhVd3ZXxejL58XmFGyx/5d590703c581d152762cce7e48b34918df23a19db36613b0cf79b233ff9b7065.png)
 
-Así que aquí estoy: el proyecto aún no está terminado porque necesito comprar los componentes y realizar el montaje físico. También debo revisar lo relativo a la PCB de KiCad (tengo una idea y, si es correcta, necesito averiguar dónde puedo fabricarla). Además, me di cuenta de que el proyecto original utilizaba un DHT11, mientras que para la simulación yo estaba usando un DHT22, por lo que tuve que localizar dónde se mencionaba el DHT11 y hacer el cambio. Por otra parte, los botones no funcionan en la simulación; no sé si esto se debe al cambio del sensor DHT11 —que también debo aplicar en el proyecto final— o si es algo que hice mal, aunque ahora el dispositivo se mueve y muestra una animación de modo de suspensión en la pantalla simulada.
+So, here I am: the project isn’t finished yet because I still need to purchase the components and carry out the physical assembly. I also need to look into the KiCad PCB—I have an idea, and if it’s sound, I’ll need to figure out where I can get it manufactured. Furthermore, I realized that the original project used a DHT11 sensor, whereas I had been using a DHT22 for the simulation; I had to track down every instance where the DHT11 was mentioned and make the necessary change. Additionally, the buttons aren’t working in the simulation—I’m not sure if this is related to the switch from the DHT11 sensor (a change I’ll also need to implement in the final build) or if I’ve made a mistake somewhere, though the device does now move and display a sleep-mode animation on the simulated screen.
 
 what i am going to do to finish the project is to buy the components search information for the kicad and checking the button problem(if there is one) and also creating a repository so i can submit the final project
