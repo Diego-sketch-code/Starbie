@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmuy6jxye02og01ngyko4evl8)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A pet(tamagochi) that's is inspire in the flippers of amazon that uses a screen and sensors to feel its environment
+> A pet(tamagochi) that's is inspire in the flippers of amazon (and the one of of SharKingStudios) that uses a screen and sensors to feel its environment
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
